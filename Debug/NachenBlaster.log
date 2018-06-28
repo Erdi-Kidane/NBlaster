@@ -1,0 +1,8 @@
+﻿  StudentWorld.cpp
+c:\users\erdi\source\repos\nachenblaster\nachenblaster\studentworld.h(43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\erdi\source\repos\nachenblaster\nachenblaster\studentworld.cpp(119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\erdi\source\repos\nachenblaster\nachenblaster\studentworld.cpp(125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\erdi\source\repos\nachenblaster\nachenblaster\studentworld.cpp(130): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\erdi\source\repos\nachenblaster\nachenblaster\studentworld.cpp(188): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NachenBlaster.vcxproj -> C:\Users\Erdi\source\repos\nachenBlaster\Debug\NachenBlaster.exe
+  NachenBlaster.vcxproj -> C:\Users\Erdi\source\repos\nachenBlaster\Debug\NachenBlaster.pdb (Partial PDB)
